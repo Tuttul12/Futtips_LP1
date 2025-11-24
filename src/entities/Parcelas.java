@@ -1,3 +1,5 @@
+package entities;
+
 public class Parcelas {
     private int codigo;
     private int qtd;

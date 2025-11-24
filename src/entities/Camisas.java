@@ -1,3 +1,5 @@
+package entities;
+
 public class Camisas {
     private int id;
     private String descricao;

@@ -1,6 +1,6 @@
-import entities.Pessoas;
+package entities;
 
-public class Endereco {
+public class Enderecos {
     private String rua;
     private int nr;
     private String bairro;
@@ -9,10 +9,10 @@ public class Endereco {
     private String estado;
     private Pessoas pessoas;
 
-    public Endereco(){
+    public Enderecos(){
     }
 
-    public Endereco(int id, String rua, int nr, Pessoas pessoas){
+    public Enderecos(int id, String rua, int nr, Pessoas pessoas){
         this.rua=rua;
         this.nr=nr;
         this.bairro = bairro;

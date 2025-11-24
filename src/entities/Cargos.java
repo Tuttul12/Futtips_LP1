@@ -1,3 +1,5 @@
+package entities;
+
 public final class Cargos{
     private int id;
     private String permissao;

@@ -1,3 +1,4 @@
+package entities;
 import entities.Pessoas;
 
 public final class Funcionarios extends Pessoas{

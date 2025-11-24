@@ -1,3 +1,5 @@
+package entities;
+
 public class PedidosCamisas {
     private int qtd;
     private Pedidos pedidos;
